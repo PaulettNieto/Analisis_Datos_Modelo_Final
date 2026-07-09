@@ -13,3 +13,7 @@ Librerías utilizadas: Colocar aquí las librerías empleadas en el análisis.
 Autores
 Nombre de los integrantes del grupo.Análisis de Datos y Ajuste de Modelo Final
 Ivonne Paola Nieto Chilcahue
+Aracely Susanibar Gutierrez
+Alessandro Espino Cahua
+Benexy Pittar Salvatierra 
+Jhonthan Arango Ortiz

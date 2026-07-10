@@ -35,4 +35,4 @@ GitHub
 - Aracely Susanibar Gutierrez
 - Alessandro Espino Cahua
 - Benexy Pittar Salvatierra
-- Jhonthan Arango Ortiz
+- Jhonathan Arango Ortiz

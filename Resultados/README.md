@@ -54,8 +54,8 @@ A continuación, se presentan las tablas organizadas bajo las normas estrictas d
 
 *(Nota: Los archivos de imagen generados por el código estadístico están alojados de forma local en esta misma carpeta).*
 
-* **`dispersion_sueno_estres.png`**: Gráfico de dispersión con línea de tendencia lineal que ilustra de manera visual la relación inversa entre las horas de descanso nocturno y el puntaje de estrés.
-* **`residuos_modelo_final.png`**: Gráfico de diagnóstico del modelo estadístico para comprobar los supuestos de normalidad y homocedasticidad de la regresión lineal.
+* **`dispersion_sueno_estres`**: Gráfico de dispersión con línea de tendencia lineal que ilustra de manera visual la relación inversa entre las horas de descanso nocturno y el puntaje de estrés.
+* **`residuos_modelo_final`**: Gráfico de diagnóstico del modelo estadístico para comprobar los supuestos de normalidad y homocedasticidad de la regresión lineal.
 
 ---
 

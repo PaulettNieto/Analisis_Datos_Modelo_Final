@@ -61,4 +61,3 @@ const            12.5255      0.666     18.813      0.000      11.075      13.97
 Horas_estudio    -0.6984      0.161     -4.328      0.001      -1.050      -0.347
 Horas_sueno      -0.5562      0.191     -2.914      0.013      -0.972      -0.140
 ============================================================================== datos y ajuste de modelo final
-# Archivo destinado al desarrollo del análisis mediante Python.

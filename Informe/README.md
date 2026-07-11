@@ -1,4 +1,4 @@
-# Documentación del Proceso: Análisis de Estrés Académico
+# Análisis de Estrés Académico
 
 Este apartado contiene la documentación detallada del proceso desarrollado, la metodología aplicada y los resultados del modelo estadístico final para el proyecto sobre hábitos de estudio, descanso y nivel de estrés en estudiantes de psicología.
 

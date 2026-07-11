@@ -4,7 +4,7 @@ Carpeta destinada al almacenamiento de tablas, gráficos, análisis estadístico
 
 ---
 
-## 1. Tablas Estadísticas (Formato APA 7)
+## 1. Tablas Estadísticas 
 
 A continuación, se presentan las tablas organizadas bajo las normas estrictas de la APA, caracterizadas por la ausencia de líneas verticales y colores de fondo.
 
